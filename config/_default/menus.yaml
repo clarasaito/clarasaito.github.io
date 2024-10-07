@@ -11,5 +11,5 @@ main:
     url: workshops/
     weight: 12  
   - name: CV
-    url: /uploads/CV-Saito-2024.pdf
+    url: uploads/CV-Saito-2024.pdf
     weight: 13
