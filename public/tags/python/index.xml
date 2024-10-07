@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Clara Saito - Performance and Visual Artist</title>
+    <link>http://localhost:1313/tags/python/</link>
+      <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+    </image>
+    
+    <item>
+      <title>Getting Tropical - Part 2</title>
+      <link>http://localhost:1313/teaching/python/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/python/</guid>
+      <description>&lt;p&gt;Getting Tropical - Part 2 at 
+ is a performance Workshop: SHAKE YOUR STEREOTYPE AWAY.&lt;/p&gt;
+&lt;p&gt;performance arts – feminism – social sciences – artivism&lt;/p&gt;
+&lt;p&gt;Within the performative and movement practices we research in the piece Getting Tropical we have the practices of cracks: strategies to move within the gaps of colonial and institutional projects. A translation for what philosopher and babalorixá Luiz Simas calls &amp;ldquo;Brasilidade&amp;rdquo;. We practice within our daily lives and studios some of them:&lt;/p&gt;
+&lt;p&gt;transgressive practices of reinvention
+false domestication
+re-enchantment
+disobedience
+working with the unknown
+disidentifications&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Clara Saito - Performance and Visual Artist</title>
+    <link>http://localhost:1313/tags/events/</link>
+      <atom:link href="http://localhost:1313/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Events</title>
+      <link>http://localhost:1313/tags/events/</link>
+    </image>
+    
+    <item>
+      <title>The Anarchic Spiderman</title>
+      <link>http://localhost:1313/project/the-anarchic-spiderman/</link>
+      <pubDate>Wed, 22 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/the-anarchic-spiderman/</guid>
+      <description>&lt;p&gt;7 days of confused superheroes and experimental anarchism.&lt;/p&gt;
+&lt;p&gt;This festival was created as an extension of the Title is a Drawing (&amp;hellip;) with works curated in link with the practice of anarchism developed by the artist.&lt;/p&gt;
+&lt;p&gt;Concept and curation: Clara Saito
+With works by: Anonymous museum for unsigned works, Jessica, Alexander Nieuwenhuis, Petros Panagiotis Orfanos, Noha Ramadan, S.M. Snider, Cleide Saito and Clara Saito&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

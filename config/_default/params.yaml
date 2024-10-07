@@ -1,21 +1,18 @@
-# SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: dark
+  color: cyan
 
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Portfolio
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Clara Saito is a performance and visual artist based in Amsterdam. In her recent works she transitions between different characters.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -31,21 +28,28 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    fixed_to_top: true 
     logo:
-      text: "Your Name"
+      filename: "logo.svg"
+      #text: "Clara Saito"
+    show_search: false
+    show_theme_chooser: false
+    highlight_active_link: true
+    button:
+      enable: true
+      text: "Contact"
+      url: "mailto:xemxxxailx@claxxxraxxsaxitxxo.cxoxm"    
 
 # Site footer
 footer:
+  block: minimal
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Clara Saito' 
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 locale:

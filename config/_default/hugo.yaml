@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Clara Saito - Performance and Visual Artist
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://clarasaito.com/'
 
 ############################
 ## LANGUAGE
@@ -25,8 +25,8 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
-enableEmoji: true
+pagination.pagerSize: 20
+enableEmoji: false
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
@@ -38,7 +38,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 80
+  quality: 82
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -53,3 +53,11 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+  - _target:
+      path: /**
+    reading_time: false
+    share: false
+    show_date: false
+
