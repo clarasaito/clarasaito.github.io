@@ -2,8 +2,8 @@
 
 # Appearance
 appearance:
-  mode: dark
-  color: cyan
+  mode: system
+  color: purple
 
 # SEO
 marketing:
@@ -33,7 +33,7 @@ header:
       filename: "logo.svg"
       #text: "Clara Saito"
     show_search: false
-    show_theme_chooser: false
+    show_theme_chooser: true
     highlight_active_link: true
     button:
       enable: true
