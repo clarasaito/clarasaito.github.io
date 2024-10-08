@@ -3,6 +3,7 @@ title: Theater of Drag
 summary: to explore using performance and theater as a transformative and political way of expressing and acting upon struggles, all of it in drag
 date: 2024-03-13
 tags:
+  - Workshop
   - Performance Workshop
 image:
   placement: 3

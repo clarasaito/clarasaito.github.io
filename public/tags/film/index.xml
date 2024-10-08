@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Film | Clara Saito - Performance and Visual Artist</title>
-    <link>http://localhost:1313/tags/film/</link>
-      <atom:link href="http://localhost:1313/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://clarasaito.github.io/tags/film/</link>
+      <atom:link href="https://clarasaito.github.io/tags/film/index.xml" rel="self" type="application/rss+xml" />
     <description>Film</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://clarasaito.github.io/media/logo.svg</url>
       <title>Film</title>
-      <link>http://localhost:1313/tags/film/</link>
+      <link>https://clarasaito.github.io/tags/film/</link>
     </image>
     
     <item>
       <title>Crossing the Dunes aka Gossip (2021)</title>
-      <link>http://localhost:1313/project/gossip/</link>
+      <link>https://clarasaito.github.io/projects/gossip/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/gossip/</guid>
-      <description>&lt;p&gt;The film frames the symbolic principles that govern our lived reality as myths: the myth of Switzerland, the myth of nation, the myth of categorisable identity; echoing Barthes diagnostic of the ideological utility of mythologies. Yet, instead of simply critiquing the ideological myth, the lmmakers propositionally present &amp;ldquo;gossip&amp;rdquo; as an alternative method of interpretation, perception, and storytelling. If myth is ideological, then gossip is social.&lt;/p&gt;
+      <guid>https://clarasaito.github.io/projects/gossip/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Movie, 30 minutes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The film frames the symbolic principles that govern our lived reality as myths: the myth of Switzerland, the myth of nation, the myth of categorisable identity; echoing Barthes diagnostic of the ideological utility of mythologies. Yet, instead of simply critiquing the ideological myth, the lmmakers propositionally present &amp;ldquo;gossip&amp;rdquo; as an alternative method of interpretation, perception, and storytelling. If myth is ideological, then gossip is social.&lt;/p&gt;
 &lt;p&gt;Gossip is a verbal practice of social bonding, an informal mode of information sharing associated with women and marginalised communities which leaves room for interpretation and adaption. Gossip makes no declarations of universal truths. It&amp;rsquo;s about time gossip was reclaimed from the demonised connotations bestowed upon it by the myth-making institutes. rough both form and content, the lm presents &amp;ldquo;gossip&amp;rdquo; as a method for navigating these mythologies in a way that reinstates the complex agency of the &amp;ldquo;self&amp;rdquo; within them. By privileging a form of &amp;ldquo;storytelling from below&amp;rdquo; Crossing the Dunes AKA Gossip adeptly tethers the intimate to the political, the theoretical to practice, and the symbolic to the embodied, whilst providing abundant conceptual space for their generative entanglements.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Movie: Clara Saito and Livio Casanova&lt;/li&gt;
@@ -32,16 +33,16 @@
   
 
     
-    &lt;a href=&#34;http://localhost:1313/project/gossip/images/crossing0.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/gossip/images/crossing0.png&#34; title=&#34;images/crossing0.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/gossip/images/crossing0.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/gossip/images/crossing0.png&#34; title=&#34;images/crossing0.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/gossip/images/crossing1.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/gossip/images/crossing1.png&#34; title=&#34;images/crossing1.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/gossip/images/crossing1.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/gossip/images/crossing1.png&#34; title=&#34;images/crossing1.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/gossip/images/crossing2.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/gossip/images/crossing2.png&#34; title=&#34;images/crossing2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/gossip/images/crossing2.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/gossip/images/crossing2.png&#34; title=&#34;images/crossing2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -50,10 +51,11 @@
     
     <item>
       <title>How to Cure Bacterial Vaginosis (2021)</title>
-      <link>http://localhost:1313/project/curevaginosis/</link>
+      <link>https://clarasaito.github.io/projects/curevaginosis/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/curevaginosis/</guid>
-      <description>&lt;p&gt;In this work, Lady Dada, a rockstar in performance arts, takes into her own hands to explain to her audience the mysteries of the vaginal bacterias and how to keep it all in balance, in a playful video containing scientific facts, somatic improvisations and 3d liquid objects. Her tutorial is framed in between two long banners portraying diverse flashy bacterias, a royal set-up to remind that the body will always rule us first.&lt;/p&gt;
+      <guid>https://clarasaito.github.io/projects/curevaginosis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;12 minute video, 3x Screenprints on fabric, performances&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this work, Lady Dada, a rockstar in performance arts, takes into her own hands to explain to her audience the mysteries of the vaginal bacterias and how to keep it all in balance, in a playful video containing scientific facts, somatic improvisations and 3d liquid objects. Her tutorial is framed in between two long banners portraying diverse flashy bacterias, a royal set-up to remind that the body will always rule us first.&lt;/p&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js&#34;&gt;&lt;/script&gt;
@@ -62,44 +64,44 @@
   
 
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort1.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort1.jpg&#34; title=&#34;images/hetresort1.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort1.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort1.jpg&#34; title=&#34;images/hetresort1.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort2.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort2.jpg&#34; title=&#34;images/hetresort2.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort2.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort2.jpg&#34; title=&#34;images/hetresort2.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort3.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort3.jpg&#34; title=&#34;images/hetresort3.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort3.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort3.jpg&#34; title=&#34;images/hetresort3.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort4.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort4.png&#34; title=&#34;images/hetresort4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort4.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort4.png&#34; title=&#34;images/hetresort4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort5.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort5.png&#34; title=&#34;images/hetresort5.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort5.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/hetresort5.png&#34; title=&#34;images/hetresort5.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/howtocure1.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/howtocure1.png&#34; title=&#34;images/howtocure1.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/howtocure1.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/howtocure1.png&#34; title=&#34;images/howtocure1.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/howtocure2.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/howtocure2.png&#34; title=&#34;images/howtocure2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/howtocure2.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/howtocure2.png&#34; title=&#34;images/howtocure2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/howtocure4.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/howtocure4.png&#34; title=&#34;images/howtocure4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/howtocure4.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/howtocure4.png&#34; title=&#34;images/howtocure4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/howtocure5.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/howtocure5.png&#34; title=&#34;images/howtocure5.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/howtocure5.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/howtocure5.png&#34; title=&#34;images/howtocure5.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/xhetresort6.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/xhetresort6.jpg&#34; title=&#34;images/xhetresort6.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/curevaginosis/images/xhetresort6.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/curevaginosis/images/xhetresort6.jpg&#34; title=&#34;images/xhetresort6.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -108,10 +110,11 @@
     
     <item>
       <title>A piece of Dada (2018)</title>
-      <link>http://localhost:1313/project/a-piece-of-dada/</link>
+      <link>https://clarasaito.github.io/projects/a-piece-of-dada/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/a-piece-of-dada/</guid>
-      <description>&lt;p&gt;In a city torn apart by a mad scramble for celebrity, Lady Dada seemingly has it all. The enigmatic performance artist lures her audience by ingesting vast amounts of money in her spectacular shows promising fame and unbound pleasure. While the public is captivated by her special gift, she has no bigger fan than Madame Gram - a glamorous but unhinged opera tycoon who is hell-bent on convincing Dada to be the star of her &amp;lsquo;Popera&amp;rsquo;. But Dada has a dirty secret. She doesn&amp;rsquo;t just eat the dollar bills - she shits them, too. Via the underground sewer system, her faeces are funding an avant-garde revolution that will topple the Opera regime once and for all. Or so she thinks&amp;hellip;&lt;/p&gt;
+      <guid>https://clarasaito.github.io/projects/a-piece-of-dada/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Film, 30 minutes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In a city torn apart by a mad scramble for celebrity, Lady Dada seemingly has it all. The enigmatic performance artist lures her audience by ingesting vast amounts of money in her spectacular shows promising fame and unbound pleasure. While the public is captivated by her special gift, she has no bigger fan than Madame Gram - a glamorous but unhinged opera tycoon who is hell-bent on convincing Dada to be the star of her &amp;lsquo;Popera&amp;rsquo;. But Dada has a dirty secret. She doesn&amp;rsquo;t just eat the dollar bills - she shits them, too. Via the underground sewer system, her faeces are funding an avant-garde revolution that will topple the Opera regime once and for all. Or so she thinks&amp;hellip;&lt;/p&gt;
 &lt;p&gt;A Piece of Dada is a collective film project which was triggered by the themes and practices that they have explored with their Dutch Art Institute study group through an experimental methodology of production.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The movie has been written, filmed, and acted by Clementine Edwards, Lukas Q Hoffmann, Tirza Kater, Rabea Ridlhammer, Clara Saito, Giorgos Tsiongas and Wilfred Tomescu with the support of Pauline Curnier Jardin and Sara Giannini.&lt;/li&gt;
@@ -124,24 +127,24 @@
   
 
     
-    &lt;a href=&#34;http://localhost:1313/project/a-piece-of-dada/images/peiceofdada4.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/a-piece-of-dada/images/peiceofdada4.png&#34; title=&#34;images/peiceofdada4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/peiceofdada4.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/peiceofdada4.png&#34; title=&#34;images/peiceofdada4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/a-piece-of-dada/images/piece_of_dada.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/a-piece-of-dada/images/piece_of_dada.png&#34; title=&#34;images/piece_of_dada.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/piece_of_dada.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/piece_of_dada.png&#34; title=&#34;images/piece_of_dada.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/a-piece-of-dada/images/pieceofdada1.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/a-piece-of-dada/images/pieceofdada1.png&#34; title=&#34;images/pieceofdada1.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/pieceofdada1.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/pieceofdada1.png&#34; title=&#34;images/pieceofdada1.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/a-piece-of-dada/images/pieceofdada2.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/a-piece-of-dada/images/pieceofdada2.png&#34; title=&#34;images/pieceofdada2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/pieceofdada2.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/pieceofdada2.png&#34; title=&#34;images/pieceofdada2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/a-piece-of-dada/images/pieceofdada3.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/a-piece-of-dada/images/pieceofdada3.png&#34; title=&#34;images/pieceofdada3.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/pieceofdada3.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/a-piece-of-dada/images/pieceofdada3.png&#34; title=&#34;images/pieceofdada3.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -150,10 +153,11 @@
     
     <item>
       <title>Diva the Dog (2017)</title>
-      <link>http://localhost:1313/project/diva-the-dog/</link>
+      <link>https://clarasaito.github.io/projects/diva-the-dog/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/diva-the-dog/</guid>
-      <description>&lt;p&gt;Diva is a dog. The dog is the artist performing Diva for a month. Caretakers were able to volunteer to take Diva for walks in a place of their choice. During this month a camera followed these characters in their different habitats.&lt;/p&gt;
+      <guid>https://clarasaito.github.io/projects/diva-the-dog/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Event, multiple days&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diva is a dog. The dog is the artist performing Diva for a month. Caretakers were able to volunteer to take Diva for walks in a place of their choice. During this month a camera followed these characters in their different habitats.&lt;/p&gt;
 &lt;p&gt;This experiment generated questions about productivity and instincts in addition to sticks and holes. But is a dog&amp;rsquo;s existence then about questioning? Diva the dog is a work that imagine how a human would live without social construct, basing their actions on their instincts, desires and senses.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Concept and performance: Clara Saito&lt;/li&gt;
@@ -169,16 +173,16 @@
   
 
     
-    &lt;a href=&#34;http://localhost:1313/project/diva-the-dog/images/diva2.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/diva-the-dog/images/diva2.png&#34; title=&#34;images/diva2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/diva-the-dog/images/diva2.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/diva-the-dog/images/diva2.png&#34; title=&#34;images/diva2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/diva-the-dog/images/diva3.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/diva-the-dog/images/diva3.png&#34; title=&#34;images/diva3.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/diva-the-dog/images/diva3.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/diva-the-dog/images/diva3.png&#34; title=&#34;images/diva3.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;http://localhost:1313/project/diva-the-dog/images/diva4.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/project/diva-the-dog/images/diva4.png&#34; title=&#34;images/diva4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;https://clarasaito.github.io/projects/diva-the-dog/images/diva4.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;https://clarasaito.github.io/projects/diva-the-dog/images/diva4.png&#34; title=&#34;images/diva4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 

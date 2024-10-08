@@ -12,9 +12,6 @@ highlight_name: true
 role: Performance and Visual Artist 
 
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/clarasaito/
   - icon: brands/facebook

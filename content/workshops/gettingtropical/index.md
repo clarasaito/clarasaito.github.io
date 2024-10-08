@@ -3,6 +3,7 @@ title: Getting Tropical - Part 2
 summary: A Performance Workshop, SHAKE YOUR STEREOTYPE AWAY; performance arts – feminism – social sciences – artivism
 date: 2022-11-26
 tags:
+  - Workshop
   - Performance Workshop
 image:
   placement: 3
@@ -19,3 +20,6 @@ re-enchantment
 disobedience
 working with the unknown
 disidentifications
+
+- Directed: Karina Villafan
+- In close collaboration with: Clara Saito and Lara Santos

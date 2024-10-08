@@ -5,7 +5,7 @@ main:
     url: /
     weight: 10
   - name: Works
-    url: project/
+    url: projects/
     weight: 11
   - name: Workshops
     url: workshops/
