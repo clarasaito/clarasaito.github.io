@@ -9,10 +9,10 @@
 {{ $text := $block.content.text | emojify | $page.RenderString | safeHTML }}
 
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6">
-
-  <div class="mb-6 text-xl text-gray-900 dark:text-white">
+<h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white">
+  <a href="project/a-piece-of-dada/"><span class="mt-2 bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">
     {{ $title }}
-  </div>
+  </span></a></h2>
 
   {{/* We use DIV rather than P to support `prose` class and multiple paragraphs */}}
   {{ with $text }}<div class="prose prose-slate dark:prose-invert max-w-prose" style="font-size: .9rem;">{{ . }}</div>{{ end }}

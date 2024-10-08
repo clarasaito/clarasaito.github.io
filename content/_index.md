@@ -4,7 +4,7 @@ date: 2022-10-24
 type: page
 
 design:
-  spacing: "5rem"
+  spacing: "3rem"
       
 sections:
   - block: resume-biography-3
@@ -23,9 +23,10 @@ sections:
   - block: markdown
     content:
       title: 'About the Video'
+      external_link: https://github.com/pandas-dev/pandas
       subtitle: ''
       text: |-
-        A PIECE OF DADA (2018)<br>
+        <span style="color:#7f22ce">A PIECE OF DADA (2018)</span> <br>
         Film, 30 minutes
 
         In a city torn apart by a mad scramble for celebrity, Lady Dada seemingly has it all. The enigmatic performance artist lures her audience by ingesting vast amounts of money in her spectacular shows promising fame and unbound pleasure.
