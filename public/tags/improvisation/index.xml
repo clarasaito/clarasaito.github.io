@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Improvisation | Clara Saito - Performance and Visual Artist</title>
-    <link>https://clarasaito.com/tags/improvisation/</link>
-      <atom:link href="https://clarasaito.com/tags/improvisation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/improvisation/</link>
+      <atom:link href="http://localhost:1313/tags/improvisation/index.xml" rel="self" type="application/rss+xml" />
     <description>Improvisation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clarasaito.com/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Improvisation</title>
-      <link>https://clarasaito.com/tags/improvisation/</link>
+      <link>http://localhost:1313/tags/improvisation/</link>
     </image>
     
     <item>
       <title>Impro Drag</title>
-      <link>https://clarasaito.com/workshops/improdrag/</link>
+      <link>http://localhost:1313/workshops/improdrag/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/workshops/improdrag/</guid>
+      <guid>http://localhost:1313/workshops/improdrag/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Improvisation, 2 hours&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An hour of dance improvisation with the possibility of transformation through clothes and make-up.&lt;/p&gt;
 &lt;p&gt;Impro drag started in Jacuzzi space in the few times it was possible during the pandemic and has been taking place twice per year since then. It is a space to explore movement, having encounters through improvisation and experimentation with clothing and make-up. Questions that can be embodied through the improvisation can be how drag influences our movement qualities, our own perceptions of body and self and our connection with others.&lt;/p&gt;
@@ -28,20 +28,20 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_167.JPG&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_167.JPG&#34; title=&#34;images/ROSE_167.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_167.JPG&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_167.JPG&#34; title=&#34;images/ROSE_167.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_177.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_177.jpg&#34; title=&#34;images/ROSE_177.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_187.JPG&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_187.JPG&#34; title=&#34;images/ROSE_187.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_187.JPG&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_187.JPG&#34; title=&#34;images/ROSE_187.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_193.JPG&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_193.JPG&#34; title=&#34;images/ROSE_193.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_193.JPG&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_193.JPG&#34; title=&#34;images/ROSE_193.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/improdrag/images/improdrag.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/improdrag/images/improdrag.jpg&#34; title=&#34;images/improdrag.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 

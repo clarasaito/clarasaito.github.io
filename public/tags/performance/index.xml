@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Performance | Clara Saito - Performance and Visual Artist</title>
-    <link>https://clarasaito.com/tags/performance/</link>
-      <atom:link href="https://clarasaito.com/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/performance/</link>
+      <atom:link href="http://localhost:1313/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     <description>Performance</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clarasaito.com/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Performance</title>
-      <link>https://clarasaito.com/tags/performance/</link>
+      <link>http://localhost:1313/tags/performance/</link>
     </image>
     
     <item>
       <title>Sad Clown (2023)</title>
-      <link>https://clarasaito.com/projects/sad-clown/</link>
+      <link>http://localhost:1313/project/sad-clown/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/sad-clown/</guid>
+      <guid>http://localhost:1313/project/sad-clown/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Performance (20 minutes)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In her previous performances, Clara Saito has used bodily expression to explore the issues of domination and liberation that infuse society. She uses her own body and those of the performers she regularly works with to translate feelings and attempt to deconstruct the effects of social and societal norms on our daily lives, particularly those of minorities.&lt;/p&gt;
 &lt;p&gt;With Sad Clown, Clara Saito continues her exploration of the language of feelings through the body. Here, she takes a closer look at the issue of mental health through the figure of the clown, whose lightness, frivolity and whimsy we expect, disregarding the person embodying him. But what happens when these buried feelings resurface? How do you reconcile your public persona with your inner self?  This performance addresses the problem of ambiguous feelings by replaying the codes of burlesque in a minor mode*.&lt;/p&gt;
@@ -28,12 +28,12 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/projects/sad-clown/images/IMG_1130.jpeg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/sad-clown/images/IMG_1130.jpeg&#34; title=&#34;images/IMG_1130.jpeg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/sad-clown/images/IMG_1130.jpeg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/sad-clown/images/IMG_1130.jpeg&#34; title=&#34;images/IMG_1130.jpeg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/sad-clown/images/clown-sad.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/sad-clown/images/clown-sad.jpg&#34; title=&#34;images/clown-sad.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/sad-clown/images/clown-sad.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/sad-clown/images/clown-sad.jpg&#34; title=&#34;images/clown-sad.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -42,9 +42,9 @@
     
     <item>
       <title>Public Space (2023)</title>
-      <link>https://clarasaito.com/projects/publicspace/</link>
+      <link>http://localhost:1313/project/publicspace/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/publicspace/</guid>
+      <guid>http://localhost:1313/project/publicspace/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Performance (30 minutes)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In Public Space, Clara Saito has been collaborating with members of the latinx collective Papaya Kuir, Patri Roa Johansen and Nadia Bekkers. Together they developed allegorical characters and a game in a tv show format as a response to the Amazon forest fires and the involvement of the Netherlands in deforestation.The project is inspired by the techniques of the Theatre of the Oppressed by Augusto Boal, as well as the book Disidentifications: Queers of Color and the Performance of Politics by José Esteban Munoz, but also by drag and telenovela. This show is a collaborative effort to use theatre and performance as a means of exploring and addressing issues related to queer activism and social justice.&lt;/p&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css&#34; /&gt;
@@ -55,16 +55,16 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/projects/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20160%20high%20res%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20160%20high%20res%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; title=&#34;images/If I Can&amp;#39;t Dance Open Rehearsals 160 high res – photo Maarten Nauw.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20160%20high%20res%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20160%20high%20res%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; title=&#34;images/If I Can&amp;#39;t Dance Open Rehearsals 160 high res – photo Maarten Nauw.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20187%20high%20res%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20187%20high%20res%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; title=&#34;images/If I Can&amp;#39;t Dance Open Rehearsals 187 high res – photo Maarten Nauw.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20187%20high%20res%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20187%20high%20res%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; title=&#34;images/If I Can&amp;#39;t Dance Open Rehearsals 187 high res – photo Maarten Nauw.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; title=&#34;images/If I Can&amp;#39;t Dance Open Rehearsals – photo Maarten Nauw.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/publicspace/images/If%20I%20Can%27t%20Dance%20Open%20Rehearsals%20%E2%80%93%20photo%20Maarten%20Nauw.jpg&#34; title=&#34;images/If I Can&amp;#39;t Dance Open Rehearsals – photo Maarten Nauw.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -73,9 +73,9 @@
     
     <item>
       <title>sh*d*ws (2022)</title>
-      <link>https://clarasaito.com/projects/shadows/</link>
+      <link>http://localhost:1313/project/shadows/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/shadows/</guid>
+      <guid>http://localhost:1313/project/shadows/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Performance, 40 minutes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;(&amp;hellip;) if identities were no longer fixed&amp;hellip; a new configuration of politics would surely emerge from the ruins of the old. &lt;em&gt;Judith Butler, Gender Trouble: Feminism and the Subversion of Identity&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;sh*d*ws is about transforming, never becoming, dissociating, transiting identies, questionning genders, never fixing, it&amp;rsquo;s about entering the paranoia of the other&amp;rsquo;s perception of oneself but never fully believing it, playing dumb, escaping meaning, it is about who you are when you don&amp;rsquo;t belong, it is about who you are when you don&amp;rsquo;t have a country, it&amp;rsquo;s about who you are when your mother tongue fails, it&amp;rsquo;s about finding who you are when your father&amp;rsquo;s tongue has no more use, it&amp;rsquo;s about who you are when the folklore of your native land is not the same than any in your genealogical tree but it is still the first one you lived, it&amp;rsquo;s about multiple diagnosis, it&amp;rsquo;s about having symptoms of every mental illness, it is about multiplicity, it is about accumulation, it is about excess, it is about having ancestors in every continent, it is about what you are when claiming an identity automatically erases another part of yourself, it is to choose to not claim anything, it is about acceptance, it is about accepting that your ancestors disagree on their plans for you, it is about accepting that your community will always be the community of the displaced, it is accepting that we will never automatically understand each other and that it will always be through multiple encounters, multiple drunk nights, multiple mistakes that we will maybe get a glimpse of each other&amp;rsquo;s lives.&lt;/p&gt;
@@ -88,24 +88,24 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/projects/shadows/images/DSC.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/shadows/images/DSC.jpg&#34; title=&#34;images/DSC.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/shadows/images/DSC.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/shadows/images/DSC.jpg&#34; title=&#34;images/DSC.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/shadows/images/DSCF0496%20%281%29.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/shadows/images/DSCF0496%20%281%29.jpg&#34; title=&#34;images/DSCF0496 (1).jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/shadows/images/DSCF0496%20%281%29.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/shadows/images/DSCF0496%20%281%29.jpg&#34; title=&#34;images/DSCF0496 (1).jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/shadows/images/DSCF0501%20%281%29.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/shadows/images/DSCF0501%20%281%29.jpg&#34; title=&#34;images/DSCF0501 (1).jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/shadows/images/DSCF0501%20%281%29.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/shadows/images/DSCF0501%20%281%29.jpg&#34; title=&#34;images/DSCF0501 (1).jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/shadows/images/shdws.JPG&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/shadows/images/shdws.JPG&#34; title=&#34;images/shdws.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/shadows/images/shdws.JPG&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/shadows/images/shdws.JPG&#34; title=&#34;images/shdws.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/shadows/images/shdws2.JPG&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/shadows/images/shdws2.JPG&#34; title=&#34;images/shdws2.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/shadows/images/shdws2.JPG&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/shadows/images/shdws2.JPG&#34; title=&#34;images/shdws2.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -114,9 +114,9 @@
     
     <item>
       <title>HOW TO BE LIKABLE (2021)</title>
-      <link>https://clarasaito.com/projects/likable/</link>
+      <link>http://localhost:1313/project/likable/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/likable/</guid>
+      <guid>http://localhost:1313/project/likable/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Performance, 20 minutes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;After starring as herself funding the avant-garde revolution in the acclaimed cult movie &amp;ldquo;A Piece of Dada&amp;rdquo;, after performing questions about study and community as tools againt capitalism in the show &amp;ldquo;Towards Anal&amp;rdquo;, and after making an in-depth vimeo tutorial on the theme of &amp;ldquo;How to Cure Bacterial Vaginosis&amp;rdquo;, Lady Dada is back at the event &amp;ldquo;Frenemy&amp;rdquo; (Rozenstraat Gallery, NL) to share her knowledge about &amp;ldquo;How to be Likable&amp;rdquo;, a camp and entertaining performance about how to be social again in the aftermath of Covid, while simultaneously pushing into a toxic positivity vibe.&lt;/p&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css&#34; /&gt;
@@ -127,15 +127,15 @@
   
 
 &lt;/div&gt;
-&lt;figure&gt;&lt;img src=&#34;https://clarasaito.com/projects/likable/GentleThemAgencyLaunch.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/likable/GentleThemAgencyLaunch.jpg&#34;&gt;
 &lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>How to Cure Bacterial Vaginosis (2021)</title>
-      <link>https://clarasaito.com/projects/curevaginosis/</link>
+      <link>http://localhost:1313/project/curevaginosis/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/curevaginosis/</guid>
+      <guid>http://localhost:1313/project/curevaginosis/</guid>
       <description>&lt;p&gt;&lt;strong&gt;12 minute video, 3x Screenprints on fabric, performances&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In this work, Lady Dada, a rockstar in performance arts, takes into her own hands to explain to her audience the mysteries of the vaginal bacterias and how to keep it all in balance, in a playful video containing scientific facts, somatic improvisations and 3d liquid objects. Her tutorial is framed in between two long banners portraying diverse flashy bacterias, a royal set-up to remind that the body will always rule us first.&lt;/p&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css&#34; /&gt;
@@ -146,44 +146,44 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort1.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort1.jpg&#34; title=&#34;images/hetresort1.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort1.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort1.jpg&#34; title=&#34;images/hetresort1.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort2.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort2.jpg&#34; title=&#34;images/hetresort2.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort2.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort2.jpg&#34; title=&#34;images/hetresort2.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort3.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort3.jpg&#34; title=&#34;images/hetresort3.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort3.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort3.jpg&#34; title=&#34;images/hetresort3.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort4.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort4.png&#34; title=&#34;images/hetresort4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort4.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort4.png&#34; title=&#34;images/hetresort4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort5.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/hetresort5.png&#34; title=&#34;images/hetresort5.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/hetresort5.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/hetresort5.png&#34; title=&#34;images/hetresort5.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/howtocure1.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/howtocure1.png&#34; title=&#34;images/howtocure1.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/howtocure1.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/howtocure1.png&#34; title=&#34;images/howtocure1.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/howtocure2.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/howtocure2.png&#34; title=&#34;images/howtocure2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/howtocure2.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/howtocure2.png&#34; title=&#34;images/howtocure2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/howtocure4.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/howtocure4.png&#34; title=&#34;images/howtocure4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/howtocure4.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/howtocure4.png&#34; title=&#34;images/howtocure4.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/howtocure5.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/howtocure5.png&#34; title=&#34;images/howtocure5.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/howtocure5.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/howtocure5.png&#34; title=&#34;images/howtocure5.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/curevaginosis/images/xhetresort6.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/curevaginosis/images/xhetresort6.jpg&#34; title=&#34;images/xhetresort6.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/curevaginosis/images/xhetresort6.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/curevaginosis/images/xhetresort6.jpg&#34; title=&#34;images/xhetresort6.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -192,9 +192,9 @@
     
     <item>
       <title>Towards Anal, a Performance by Lady Dada (2019)</title>
-      <link>https://clarasaito.com/projects/towards-anal/</link>
+      <link>http://localhost:1313/project/towards-anal/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/towards-anal/</guid>
+      <guid>http://localhost:1313/project/towards-anal/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Performance, 30 minutes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lady Dada is a rockstar in performance art. After making several tutorial-performances (soon on Youtube) and starring in the movie A Piece of Dada, Dada comes back to life as an avatar and attempts to dismantle capitalism through movement.&lt;/p&gt;
 &lt;p&gt;What are the choices of movement that a body makes in response to the multiplicity of information and questions we are facing every day? Where does study start? Why do I have pain in new body parts about every week since few years? What does it mean to perform dissociation? Sister Emanuelle had the same zodiac placements than me in sun sign, rising and moon. Towards Anal is about imagining ways to dismantle capitalism while asking ourselves questions to help deconstruct bodies and mind that have been shaped to accommodate such a system. Going back to important questions that thinkers such as Fred Moten, Stephano Harney, Paul Preciado have touched upon, as well as choreographers such as Deborah Hay or singer Anitta, Dada genuinely makes the move to formulate some answers through dance all of this in a camp/humouristic and overall confused style.&lt;/p&gt;
@@ -211,12 +211,12 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/projects/towards-anal/images/TO_2.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/towards-anal/images/TO_2.jpg&#34; title=&#34;images/TO_2.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/towards-anal/images/TO_2.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/towards-anal/images/TO_2.jpg&#34; title=&#34;images/TO_2.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/towards-anal/images/towards_anal2.png&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/towards-anal/images/towards_anal2.png&#34; title=&#34;images/towards_anal2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/towards-anal/images/towards_anal2.png&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/towards-anal/images/towards_anal2.png&#34; title=&#34;images/towards_anal2.png&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -225,9 +225,9 @@
     
     <item>
       <title>Kurt Dickriot (2014-2017)</title>
-      <link>https://clarasaito.com/projects/kurt-dickriot/</link>
+      <link>http://localhost:1313/project/kurt-dickriot/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/kurt-dickriot/</guid>
+      <guid>http://localhost:1313/project/kurt-dickriot/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Drag performance&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Kurt Dickriot is a drag king character well known in the Amsterdam queer scene. He was born out of the need to make fun of boys who think that they don&amp;rsquo;t need to do anything to look cool, just stand there and be. In his shows he is often presenting in a comical way his habitual self-destructive relation to pleasure dominated by alcohol and masturbation. He usually lip syncs to dramatic boy songs, such as Justin Timberlake or Blue, often after a break-up.&lt;/p&gt;
 &lt;p&gt;By the end of his career, he tried to improve and got sober, but with soberness came unknown feelings such as feelings of guilt. Out of guilt he started to cut his dick in pieces and offer them to the audience members but after a few months of doing so, he got an infection and unfortunately left this world forever. In his last shows he shared the stage a few times with Saito&amp;rsquo;s other alter egos, Lady Dada and The Confused Version of Clara Saito&lt;/p&gt;
@@ -240,32 +240,32 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/projects/kurt-dickriot/images/backccircus7.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/kurt-dickriot/images/backccircus7.jpg&#34; title=&#34;images/backccircus7.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/kurt-dickriot/images/backccircus7.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/kurt-dickriot/images/backccircus7.jpg&#34; title=&#34;images/backccircus7.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/kurt-dickriot/images/black%20circus1.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/kurt-dickriot/images/black%20circus1.jpg&#34; title=&#34;images/black circus1.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/kurt-dickriot/images/black%20circus1.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/kurt-dickriot/images/black%20circus1.jpg&#34; title=&#34;images/black circus1.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/kurt-dickriot/images/blackccircus10.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/kurt-dickriot/images/blackccircus10.jpg&#34; title=&#34;images/blackccircus10.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/kurt-dickriot/images/blackccircus10.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/kurt-dickriot/images/blackccircus10.jpg&#34; title=&#34;images/blackccircus10.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/kurt-dickriot/images/blackccircus9.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/kurt-dickriot/images/blackccircus9.jpg&#34; title=&#34;images/blackccircus9.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/kurt-dickriot/images/blackccircus9.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/kurt-dickriot/images/blackccircus9.jpg&#34; title=&#34;images/blackccircus9.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/kurt-dickriot/images/blackcircus5.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/kurt-dickriot/images/blackcircus5.jpg&#34; title=&#34;images/blackcircus5.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/kurt-dickriot/images/blackcircus5.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/kurt-dickriot/images/blackcircus5.jpg&#34; title=&#34;images/blackcircus5.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/kurt-dickriot/images/blackcircus8.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/kurt-dickriot/images/blackcircus8.jpg&#34; title=&#34;images/blackcircus8.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/kurt-dickriot/images/blackcircus8.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/kurt-dickriot/images/blackcircus8.jpg&#34; title=&#34;images/blackcircus8.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/kurt-dickriot/images/image-016.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/kurt-dickriot/images/image-016.jpg&#34; title=&#34;images/image-016.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/kurt-dickriot/images/image-016.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/kurt-dickriot/images/image-016.jpg&#34; title=&#34;images/image-016.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -274,9 +274,9 @@
     
     <item>
       <title>Black Circus (2016)</title>
-      <link>https://clarasaito.com/projects/black-circus/</link>
+      <link>http://localhost:1313/project/black-circus/</link>
       <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/black-circus/</guid>
+      <guid>http://localhost:1313/project/black-circus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event, performance, 90 minutes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Black Circus is a collective of performers incarnating different visions of queer and anarchist thoughts and ideas. This show features individual and group performances that range from dance and music to spoken word and robots. Burlesque or cabaret can serve as a reference, but Black Circus always aim to push the boundaries of known disciplines and blur the lines between cheesy, camp and performance art. Usually the show culminates in a party where spectators and performers can meet and transform together.&lt;/p&gt;
 &lt;p&gt;Black Circus is based in Amsterdam and started as a performance night in the former squatted social space Antarctica in 2012. The performance night and parties that followed became popular and were presented in different alternative venues such as Vrankrijk and the Ship of Fools. In 2016 a regular group emerged and started to tour other countries as well.&lt;/p&gt;
@@ -292,24 +292,24 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/projects/black-circus/images/IMG_8544_230.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/black-circus/images/IMG_8544_230.jpg&#34; title=&#34;images/IMG_8544_230.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/black-circus/images/IMG_8544_230.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/black-circus/images/IMG_8544_230.jpg&#34; title=&#34;images/IMG_8544_230.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/black-circus/images/blackcircus2.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/black-circus/images/blackcircus2.jpg&#34; title=&#34;images/blackcircus2.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/black-circus/images/blackcircus2.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/black-circus/images/blackcircus2.jpg&#34; title=&#34;images/blackcircus2.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/black-circus/images/blackcircus3.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/black-circus/images/blackcircus3.jpg&#34; title=&#34;images/blackcircus3.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/black-circus/images/blackcircus3.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/black-circus/images/blackcircus3.jpg&#34; title=&#34;images/blackcircus3.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/black-circus/images/blackcircus4.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/black-circus/images/blackcircus4.jpg&#34; title=&#34;images/blackcircus4.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/black-circus/images/blackcircus4.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/black-circus/images/blackcircus4.jpg&#34; title=&#34;images/blackcircus4.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/black-circus/images/blackcircus6.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/black-circus/images/blackcircus6.jpg&#34; title=&#34;images/blackcircus6.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/black-circus/images/blackcircus6.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/black-circus/images/blackcircus6.jpg&#34; title=&#34;images/blackcircus6.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -318,9 +318,9 @@
     
     <item>
       <title>The Anarchic Spiderman (2015)</title>
-      <link>https://clarasaito.com/projects/the-anarchic-spiderman/</link>
+      <link>http://localhost:1313/project/the-anarchic-spiderman/</link>
       <pubDate>Fri, 10 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/the-anarchic-spiderman/</guid>
+      <guid>http://localhost:1313/project/the-anarchic-spiderman/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event, multiple days&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;7 days of confused superheroes and experimental anarchism.&lt;/p&gt;
 &lt;p&gt;This festival was created as an extension of the Title is a Drawing (&amp;hellip;) with works curated in link with the practice of anarchism developed by the artist.&lt;/p&gt;
@@ -338,20 +338,20 @@
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/projects/the-anarchic-spiderman/images/anspiderman.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/the-anarchic-spiderman/images/anspiderman.jpg&#34; title=&#34;images/anspiderman.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/the-anarchic-spiderman/images/anspiderman.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/the-anarchic-spiderman/images/anspiderman.jpg&#34; title=&#34;images/anspiderman.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/the-anarchic-spiderman/images/image-008.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/the-anarchic-spiderman/images/image-008.jpg&#34; title=&#34;images/image-008.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/the-anarchic-spiderman/images/image-008.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/the-anarchic-spiderman/images/image-008.jpg&#34; title=&#34;images/image-008.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/the-anarchic-spiderman/images/image-009.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/the-anarchic-spiderman/images/image-009.jpg&#34; title=&#34;images/image-009.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/the-anarchic-spiderman/images/image-009.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/the-anarchic-spiderman/images/image-009.jpg&#34; title=&#34;images/image-009.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/projects/the-anarchic-spiderman/images/image-011.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/projects/the-anarchic-spiderman/images/image-011.jpg&#34; title=&#34;images/image-011.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/project/the-anarchic-spiderman/images/image-011.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/project/the-anarchic-spiderman/images/image-011.jpg&#34; title=&#34;images/image-011.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -360,12 +360,12 @@
     
     <item>
       <title>The title is a drawing, the drawing is an undefined network II (2014)</title>
-      <link>https://clarasaito.com/projects/title-drawing-network-nr2/</link>
+      <link>http://localhost:1313/project/title-drawing-network-nr2/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/title-drawing-network-nr2/</guid>
+      <guid>http://localhost:1313/project/title-drawing-network-nr2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Performance, 60 minutes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;#2 revisits the practice of anarchism of #1 but in interaction between 4 characters.&lt;/p&gt;
-&lt;figure class=&#34;aside&#34;&gt;&lt;img src=&#34;https://clarasaito.com/projects/title-drawing-network-nr2/image-004.png&#34; width=&#34;190px&#34;&gt;
+&lt;figure class=&#34;aside&#34;&gt;&lt;img src=&#34;http://localhost:1313/project/title-drawing-network-nr2/image-004.png&#34; width=&#34;190px&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The characters move inside the objectified chaos, a defined space inside the theater where they can make use of a microphone, internet, rest in a safe space or decide to enter the world.&lt;/p&gt;
@@ -373,15 +373,15 @@
 &lt;li&gt;Concept and curation: Clara Saito&lt;/li&gt;
 &lt;li&gt;With works by: Anonymous museum for unsigned works, Jessica, Alexander Nieuwenhuis, Petros Panagiotis Orfanos, Noha Ramadan, S.M. Snider, Cleide Saito and Clara Saito&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://clarasaito.com/projects/title-drawing-network-nr2/image-005.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/title-drawing-network-nr2/image-005.jpg&#34;&gt;
 &lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>The title is a drawing, the drawing is an undefined network I (2014)</title>
-      <link>https://clarasaito.com/projects/title-drawing-network-nr1/</link>
+      <link>http://localhost:1313/project/title-drawing-network-nr1/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/title-drawing-network-nr1/</guid>
+      <guid>http://localhost:1313/project/title-drawing-network-nr1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Performance/Installation, 60 minutes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;#1 is at first a performance which seeks for absolute freedom. It proposes a practice of anarchism for the body and the mind as a crash test before applying it to society. It is an attempt to let go of fear, judgement and frame in order to find a non-yet existing place. From this idea 6 points/guidelines were cultivated:&lt;/p&gt;
 &lt;ol&gt;
@@ -410,7 +410,7 @@
 &lt;li&gt;Performance: Clara Saito and guests&lt;/li&gt;
 &lt;li&gt;Outside eye: Jan Ritsema&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://clarasaito.com/projects/title-drawing-network-nr1/image-003.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/title-drawing-network-nr1/image-003.jpg&#34;&gt;
 &lt;/figure&gt;</description>
     </item>
     

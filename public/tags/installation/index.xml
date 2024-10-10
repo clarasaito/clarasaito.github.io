@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Installation | Clara Saito - Performance and Visual Artist</title>
-    <link>https://clarasaito.com/tags/installation/</link>
-      <atom:link href="https://clarasaito.com/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/installation/</link>
+      <atom:link href="http://localhost:1313/tags/installation/index.xml" rel="self" type="application/rss+xml" />
     <description>Installation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Mar 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clarasaito.com/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Installation</title>
-      <link>https://clarasaito.com/tags/installation/</link>
+      <link>http://localhost:1313/tags/installation/</link>
     </image>
     
     <item>
       <title>The title is a drawing, the drawing is an undefined network I (2014)</title>
-      <link>https://clarasaito.com/projects/title-drawing-network-nr1/</link>
+      <link>http://localhost:1313/project/title-drawing-network-nr1/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/projects/title-drawing-network-nr1/</guid>
+      <guid>http://localhost:1313/project/title-drawing-network-nr1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Performance/Installation, 60 minutes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;#1 is at first a performance which seeks for absolute freedom. It proposes a practice of anarchism for the body and the mind as a crash test before applying it to society. It is an attempt to let go of fear, judgement and frame in order to find a non-yet existing place. From this idea 6 points/guidelines were cultivated:&lt;/p&gt;
 &lt;ol&gt;
@@ -45,7 +45,7 @@
 &lt;li&gt;Performance: Clara Saito and guests&lt;/li&gt;
 &lt;li&gt;Outside eye: Jan Ritsema&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://clarasaito.com/projects/title-drawing-network-nr1/image-003.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/project/title-drawing-network-nr1/image-003.jpg&#34;&gt;
 &lt;/figure&gt;</description>
     </item>
     
