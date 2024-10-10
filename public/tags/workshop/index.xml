@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop | Clara Saito - Performance and Visual Artist</title>
-    <link>https://clarasaito.com/tags/workshop/</link>
-      <atom:link href="https://clarasaito.com/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/workshop/</link>
+      <atom:link href="http://localhost:1313/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clarasaito.com/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Workshop</title>
-      <link>https://clarasaito.com/tags/workshop/</link>
+      <link>http://localhost:1313/tags/workshop/</link>
     </image>
     
     <item>
       <title>Theater of Drag</title>
-      <link>https://clarasaito.com/workshops/theatre-of-drag/</link>
+      <link>http://localhost:1313/workshops/theatre-of-drag/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/workshops/theatre-of-drag/</guid>
+      <guid>http://localhost:1313/workshops/theatre-of-drag/</guid>
       <description>&lt;p&gt;Theater of Drag workshop by Clara Saito organized by 
  at the Rietveld Academie and Sandberg Institute.&lt;/p&gt;
 &lt;p&gt;The workshop invited people to explore using performance and theater as a transformative and political way of expressing and acting upon struggles, all of it in drag. It was informed by the Theatre of the Oppressed, a community-based technique developed by Augusto Boal. The workshop included creating characters, expressing our emotions, performing for each other, and having discussions about the struggles we face in everyday life, using humor and over-dramatization in the style of telenovelas.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Getting Tropical - Part 2</title>
-      <link>https://clarasaito.com/workshops/gettingtropical/</link>
+      <link>http://localhost:1313/workshops/gettingtropical/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/workshops/gettingtropical/</guid>
+      <guid>http://localhost:1313/workshops/gettingtropical/</guid>
       <description>&lt;p&gt;Getting Tropical - Part 2 at 
  is a performance Workshop: &lt;br&gt;SHAKE YOUR STEREOTYPE AWAY.&lt;br&gt; performance arts – feminism – social sciences – artivism&lt;/p&gt;
 &lt;p&gt;Within the performative and movement practices we research in the piece Getting Tropical we have the practices of cracks: strategies to move within the gaps of colonial and institutional projects. A translation for what philosopher and babalorixá Luiz Simas calls &amp;ldquo;Brasilidade&amp;rdquo;. We practice within our daily lives and studios some of them:&lt;/p&gt;
@@ -46,9 +46,9 @@ disidentifications&lt;/p&gt;
     
     <item>
       <title>Impro Drag</title>
-      <link>https://clarasaito.com/workshops/improdrag/</link>
+      <link>http://localhost:1313/workshops/improdrag/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/workshops/improdrag/</guid>
+      <guid>http://localhost:1313/workshops/improdrag/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Improvisation, 2 hours&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An hour of dance improvisation with the possibility of transformation through clothes and make-up.&lt;/p&gt;
 &lt;p&gt;Impro drag started in Jacuzzi space in the few times it was possible during the pandemic and has been taking place twice per year since then. It is a space to explore movement, having encounters through improvisation and experimentation with clothing and make-up. Questions that can be embodied through the improvisation can be how drag influences our movement qualities, our own perceptions of body and self and our connection with others.&lt;/p&gt;
@@ -60,20 +60,20 @@ disidentifications&lt;/p&gt;
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_167.JPG&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_167.JPG&#34; title=&#34;images/ROSE_167.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_167.JPG&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_167.JPG&#34; title=&#34;images/ROSE_167.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_187.JPG&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_187.JPG&#34; title=&#34;images/ROSE_187.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_187.JPG&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_187.JPG&#34; title=&#34;images/ROSE_187.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_193.JPG&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/improdrag/images/ROSE_193.JPG&#34; title=&#34;images/ROSE_193.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_193.JPG&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/improdrag/images/ROSE_193.JPG&#34; title=&#34;images/ROSE_193.JPG&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/improdrag/images/improdrag.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/improdrag/images/improdrag.jpg&#34; title=&#34;images/improdrag.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/improdrag/images/improdrag.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/improdrag/images/improdrag.jpg&#34; title=&#34;images/improdrag.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
@@ -82,9 +82,9 @@ disidentifications&lt;/p&gt;
     
     <item>
       <title>The Anarchic Spiderman</title>
-      <link>https://clarasaito.com/workshops/the-anarchic-spiderman/</link>
+      <link>http://localhost:1313/workshops/the-anarchic-spiderman/</link>
       <pubDate>Fri, 10 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://clarasaito.com/workshops/the-anarchic-spiderman/</guid>
+      <guid>http://localhost:1313/workshops/the-anarchic-spiderman/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event, multiple days&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;7 days of confused superheroes and experimental anarchism.&lt;/p&gt;
 &lt;p&gt;This festival was created as an extension of the Title is a Drawing (&amp;hellip;) with works curated in link with the practice of anarchism developed by the artist.&lt;/p&gt;
@@ -104,20 +104,20 @@ disidentifications&lt;/p&gt;
   
 
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/the-anarchic-spiderman/images/anarchicspiderman.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/the-anarchic-spiderman/images/anarchicspiderman.jpg&#34; title=&#34;images/anarchicspiderman.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/the-anarchic-spiderman/images/anarchicspiderman.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/the-anarchic-spiderman/images/anarchicspiderman.jpg&#34; title=&#34;images/anarchicspiderman.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/the-anarchic-spiderman/images/image-008.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/the-anarchic-spiderman/images/image-008.jpg&#34; title=&#34;images/image-008.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/the-anarchic-spiderman/images/image-008.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/the-anarchic-spiderman/images/image-008.jpg&#34; title=&#34;images/image-008.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/the-anarchic-spiderman/images/image-009.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/the-anarchic-spiderman/images/image-009.jpg&#34; title=&#34;images/image-009.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/the-anarchic-spiderman/images/image-009.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/the-anarchic-spiderman/images/image-009.jpg&#34; title=&#34;images/image-009.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
-    &lt;a href=&#34;https://clarasaito.com/workshops/the-anarchic-spiderman/images/image-011.jpg&#34; data-lightbox=&#34;x&#34;&gt;
-      &lt;img src=&#34;https://clarasaito.com/workshops/the-anarchic-spiderman/images/image-011.jpg&#34; title=&#34;images/image-011.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
+    &lt;a href=&#34;http://localhost:1313/workshops/the-anarchic-spiderman/images/image-011.jpg&#34; data-lightbox=&#34;x&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/workshops/the-anarchic-spiderman/images/image-011.jpg&#34; title=&#34;images/image-011.jpg&#34; loading=&#34;lazy&#34; class=&#34;gallmir&#34; /&gt;
     &lt;/a&gt;
     
 
