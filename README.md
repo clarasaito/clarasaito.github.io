@@ -1,4 +1,4 @@
-## yey chiquitaaaaa kyara, here ur manual
+## yey clara, here ur manual
 #### read the fucking manual (rtfm) 
 please .. at least the below four tiny chapters, with focus, at first. its very important info for understanding and not to fuck up the site.  
 then go to the seperate edit parts to edit what u want.
@@ -6,22 +6,20 @@ then go to the seperate edit parts to edit what u want.
 ##### global explanation
 your website is editable in the [content](https://github.com/clarasaito/clarasaito.github.io/tree/main/content) folder.  
 In there u see three folders and one _index and a privacy file.  
-The folders each represent a single page. the main folder, content, is the main page. 
+The main folder, content, is the home page. The folders inside are workshops & projects page.  
+Inside those two folders there is the different subjects, each there own folders.  
+There's also a photo starting with feature. this is the background of the page ánd the thumbnail photo of the page above it.  
 
-There is also a photo starting with feature. this is the background of the page ánd the thumbnail photo of the front page.  
-The gallery folder has an _index file, a featurephoto (background) and two folders: video and pictures.
-
-##### about the index/_index files
-The index file is the main page. 
-You can edit text: and summary: there, and more, i'lll explain later. NOT title!
+##### about the _index files
+You can edit text and summary there, and more, i'lll explain later. NOT title!
 fyi: the description should be (best) min and max 160 characters. It is not sufficient now. No enters, just txt.  
-You will have to decide what u want people to read there.
+You will have to decide what u want people to read there.  
 
-##### about the gallery
-what is in that index file, below the texts {{gallmir3}}  
+##### about the index files
+what is in that index files, below the texts {{gallmir}}  
 DO NOT TOUCH!!   
 it is hidden code for the way the galleries are shown.  
-u can put some text above or below if u want. And, alike the other index files, under the minusses.
+u can put some text above or below if u want. Always under the minusses.
 
 ##### fucking up
 if u fuckup anything and i have an impossibility to do a thing..  
