@@ -17,8 +17,7 @@ You will have to decide what u want people to read there.
 
 ##### about the index files
 what is in that index files, below the texts {{gallmir}}  
-DO NOT TOUCH!!   
-it is hidden code for the way the galleries are shown.  
+DO NOT TOUCH!! it is the code for the way the galleries are shown.  
 u can put some text above or below if u want. Always under the minusses.
 
 ##### fucking up
@@ -34,55 +33,56 @@ and really .. if u fuckup.. please dont hesistate at all.. call me no worries it
 
 ## practic manual
 #### to change the *texts* in the pages
-the text is written in [markdown](https://www.markdownguide.org/basic-syntax/) language. if u just wanna change a sentence, change it.  
-but if u want things in bold, italic, as a heading, etc etc, check the markdown link. it is EASY.
+### _index.md   
+No enters. No editting of the folder names or title: cause u messup the frontpage/menu.  
 
-press here for changing text about u: [author](https://github.com/clarasaito/clarasaito.github.io/blob/main/content/authors/admin/_index.md?plain=1)
-this for the text within the projects page: [project](https://github.com/clarasaito/clarasaito.github.io/blob/main/content/project/_index.md?plain=1)
-this one for the workshop page: [workshop](https://github.com/clarasaito/clarasaito.github.io/blob/main/content/workshops/_index.md?plain=1)
+press here for changing text about u: [author](https://github.com/clarasaito/clarasaito.github.io/blob/main/content/authors/admin/_index.md?plain=1)  
+this for the text within the projects page: [project](https://github.com/clarasaito/clarasaito.github.io/blob/main/content/project/_index.md?plain=1)  
+  - changes are only possible for summary: text:  
+this one for the workshop page: [workshop](https://github.com/clarasaito/clarasaito.github.io/blob/main/content/workshops/_index.md?plain=1)  
+  - changes are only possible for summary: text:
+1. click on the _index file. then,  
+2. click the edit button in the right, the pencil icon.  
+3. change that text.   
+4. save: press commit changes (green button in the right top) u can put a commit message below. it is handy for reference. leave the tick ticked and press the green button, commit changes.
 
+Yay u have edited the page. check the change in ur website! (it *can* take some minutes before the change is visible)
 
+### Index.md
+the text below minusses is written in [markdown](https://www.markdownguide.org/basic-syntax/) language. if u just wanna change a sentence, change it.  
+but if u want things in bold, italic, as a heading, etc etc, check the markdown link. it is EASY.  
 fyi: two spaces after a line ánd one enter is a new line, two enters a new paragraph.
 1. click on the index or _index file. then,  
-2. click the blue edit button.  
+2. click the edit button in the right, the pencil icon.  
 3. change that text.   
-4. save: u can put a commit message below. it is handy for reference but not necessary. leave the tick ticked and press the blue button, commit changes.  
+4. save: press commit changes (green button in the right top) u can put a commit message below. it is handy for reference but not necessary. leave the tick ticked and press the blue button, commit changes.  
 
 Yay u have then edited the page. check the change in ur website! (it *can* take some minutes before the change is visible)
 
-#### add videos or pics to ur gallery
-to add videos or pics, just add them in the [video](https://gitlab.com/mirmuis/kyatest/-/tree/main/content/gallery/video) or [pictures](https://gitlab.com/mirmuis/kyatest/-/tree/main/content/gallery/pictures) folder  
-best is to have mp4 for video and jpg/jpeg for pictures, this works in all browsers.  
+#### add pics
+to add pics, just add them in the images folder which u see in the seperate folders  
+best is to have jpg/jpeg for pictures.  
 the sequence is numerically then alfabetically  
 1. press the plus folder within the video/pictures folder
 2. add photo
-3. save: if u want put a commit message, leave the tick ticked and press the blue button, commit changes.
+3. save:  press commit changes (green button in the right top) if u want put a commit message, leave the tick ticked and press the green button, commit changes.
 
 Yayy now u have added a photo/video.. check the change in the website! (it *can* take some minutes before the change is visible)
 
 #### change background in the seperate pages  
-(not the main page tho)
 if u want a different photo in the background of the page, it should be uploaded in the folder of that page.
 1. press the big plus button
 2. upload photo - the name should start with feature
-3. save: if u want put a commit message, leave the tick ticked and press the blue button, commit changes.
+3. save:  press commit changes (green button in the right top) if u want put a commit message, leave the tick ticked and press the green button, commit changes.
 
 edit name of current photo: 
-1. press blue edit button
-2. open in Web IDE
-3. in the left u see the folders, go to content, the folder u want to edit, rightclick on the old feature photo and press rename
-
+1. click on the pic
+2. press edit button right top (pencil icon)
+3. change name
+4. save:  press commit changes (green button in the right top) if u want put a commit message, leave the tick ticked and press the green button, commit changes.
 this way it is handy to just check and test if the thumbnails of the pages look good in the main page and if the background looks good anyway in the page. so u can easily change the filename back if it looks shitty (which is very very possible)  
 so.. check the change in the website! (it *can* take some minutes before the change is visible)
 
-*alternatively:*
-1. click on the current photo
-2. press replace (next to the blue edit button)
-3. upload the photo, the name should start with feature(!) if u want put a different commit message, leave the tick as is and press the blue button, commit changes
-
 and check the change :)
 
----
-
-tadaaaa.. easy as is (no?)  
-if not, don't hesistate to call me please
+Never ever hesistate calling me if in problems.. 
