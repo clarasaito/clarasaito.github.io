@@ -34,8 +34,12 @@ education:
 
 ## About
 
-Clara Saito is a performance and visual artist based in Amsterdam. Her work moves between characters and personas, including the drag king Kurt Dickriot, the rockstar of performance art Lady Dada, and Sadsato Claclown, the saddest clown in town. These characters evolve with each performance, shaped by the moment and by Saito’s lived experiences, shifting in mood and meaning in response to the world around them.
-Saito’s artistic practice is rooted in improvisation, transformation, and a refusal of fixed forms. Drawing from her plural cultural background, Brazilian, Swiss, and Japanese, as well as her long-standing involvement in Amsterdam’s queer and DIY scenes, she explores themes like dissociation, multiplicity, and identity as fluid, layered processes. Her performance philosophy embraces a kind of embodied anarchism, where freedom, unpredictability and community drive creation.
+Clara Saito is a performance and visual artist based in Amsterdam. Her work moves between different characters, including the drag king Kurt Dickriot, the rockstar of performance art Lady Dada, and Sadsato Claclown, the saddest clown in town. These personas evolve with each performance, shaped by Saito’s lived experiences and in response to the world around them.
+
+Saito’s artistic practice is rooted in improvisation, transformation, and a refusal of fixed forms. Drawing from her plural cultural background, Brazilian, Swiss, and Japanese, as well as her long-standing involvement in Amsterdam’s queer and DIY scenes, she explores identity as a fluid process. 
+
+Her performance philosophy embraces an embodied anarchism, where freedom, unpredictability and solidarity drive creation.
+
 She is the initiator of Impro Drag, a playful and political space for drag and dance improvisation that bridges artistic practice and community gathering. 
 
 Since 2017, she has been part of Jakoozi, an artist-run space at the intersection of performance, visual art, and time-based media. She has performed with artists such as Michelle Moura (Venice Dance Biennale) and Florentina Holzinger (Impulstanz), while also presenting her own work in galleries, festivals, and underground venues across Europe and Brasil.
