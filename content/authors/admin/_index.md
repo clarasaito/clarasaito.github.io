@@ -36,9 +36,7 @@ education:
 
 Clara Saito is a performance and visual artist based in Amsterdam. Her work moves between different characters, including the drag king Kurt Dickriot, the rockstar of performance art Lady Dada, and Sadsato Claclown, the saddest clown in town. These personas evolve with each performance, shaped by Saito’s lived experiences and in response to the world around them.
 
-Saito’s artistic practice is rooted in improvisation, transformation, and a refusal of fixed forms. Drawing from her plural cultural background, Brazilian, Swiss, and Japanese, as well as her long-standing involvement in Amsterdam’s queer and DIY scenes, she explores identity as a fluid process. 
-
-Her performance philosophy embraces an embodied anarchism, where freedom, unpredictability and solidarity drive creation.
+Saito’s artistic practice is rooted in improvisation, transformation, and a refusal of fixed forms. Drawing from her plural cultural background, Brazilian, Swiss, and Japanese, as well as her long-standing involvement in Amsterdam’s queer and DIY scenes, she explores identity as a fluid process. Her performance philosophy embraces an embodied anarchism, where freedom, unpredictability and solidarity drive creation.
 
 She is the initiator of Impro Drag, a playful and political space for drag and dance improvisation that bridges artistic practice and community gathering. 
 
