@@ -36,4 +36,4 @@ education:
 
 Clara Saito is a performance and visual artist based in Amsterdam. In her recent works she transitions between different characters, such as Sad Clown, the drag king persona Kurt Dickriot, a rockstar in performance arts called Lady Dada and/or a dog called Diva, amongst others. In each presentation, the personalities and moods of Saito's characters evolve as they are deeply connected to current events and the artists authentic experiences.
 
-Their entangled stories were theorized and brought closer together in an essay called Dissociative Performance: Anarchic Bodies and the Politics of Improvisation. Clara's work, in combination with her life experiences and mixture of identities, form the base for her reflections on anarchism, practices of freedom and improvisation.
+Their entangled stories were theorized and brought closer together in an essay called Dissociative Performance: Anarchic Bodies and the Politics of Improvisation. Clara's work, in combination with her life experiences and mixture of identities, form the base for her reflections on anarchism, practices of freedom and improvisation..
