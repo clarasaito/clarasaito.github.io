@@ -10,11 +10,13 @@ image:
   placement: 3
   focal_point: 'Center'
 ---
-**Improvisation, 2 hours**
+**Guided Improvisation — 2 hours**
 
-An hour of dance improvisation with the possibility of transformation through clothes and make-up.
+The improvisation begins with an hour dedicated to transformation: a time to arrive, to socialize, and to listen inward to let a mood and a character emerge through clothing and make-up. A guided warm-up, inspired by the drama in telenovelas, then prepares the body and spirit, tuning attention and awakening sensation.
 
-Impro drag started in Jacuzzi space in the few times it was possible during the pandemic and has been taking place twice per year since then. It is a space to explore movement, having encounters through improvisation and experimentation with clothing and make-up. Questions that can be embodied through the improvisation can be how drag influences our movement qualities, our own perceptions of body and self and our connection with others.
+Once we are ready, the space opens into one hour of dance improvisation in character, a living terrain of movement, presence, and play.
+
+Impro Drag is an invitation to explore how movement shifts when our sensation of self is altered. Through improvisation and encounters, we experiment with clothing and make-up as catalysts for transformation.  Questions that can be embodied through the improvisation are : how does drag influence our movement qualities, our own perceptions of body and self and our connection with others ?
 
 {{< gallmir >}}
 
