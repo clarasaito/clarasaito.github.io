@@ -1,6 +1,6 @@
 ---
 title: Sad Clown (2023)
-description: Performance (20 minutes)
+description: Durational Street Performance
 date: 2023-10-01
 tags:
   - Performance
@@ -8,7 +8,7 @@ image:
   placement: 3
   focal_point: 'Center'
 ---
-**Performance (20 minutes)**
+**Durational Street Performance**
 
 In her previous performances, Clara Saito has used bodily expression to explore the issues of domination and liberation that infuse society. She uses her own body and those of the performers she regularly works with to translate feelings and attempt to deconstruct the effects of social and societal norms on our daily lives, particularly those of minorities.
 
