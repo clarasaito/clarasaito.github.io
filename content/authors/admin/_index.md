@@ -26,10 +26,6 @@ education:
     institution: Bachelor of Dance and Choreography, Amsterdam (NL)
     date_start: 2010-09-09
     date_end: 2014-07-01
-  - area: Le Marchepied
-    institution: Dance Company for Emerging Dancers, Lausanne (CH)
-    date_start: 2004-09-01
-    date_end: 2007-07-31
 ---
 
 ## About
