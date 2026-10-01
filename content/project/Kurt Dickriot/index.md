@@ -1,6 +1,6 @@
 ---
 title: Kurt Dickriot (2016)
-date: 2017-08-01
+date: 2016-08-01
 description: Drag performance 
 tags:
   - Event
