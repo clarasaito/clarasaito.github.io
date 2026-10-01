@@ -1,5 +1,5 @@
 ---
-title: Kurt Dickriot (2014-2017)
+title: Kurt Dickriot (2016-2017)
 date: 2017-08-01
 description: Drag performance 
 tags:
