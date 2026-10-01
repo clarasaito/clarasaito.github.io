@@ -4,7 +4,7 @@ description: Performance, 60 minutes
 date: 2014-09-01
 # external_link: 
 tags:
-  - Performance
+  - Graduation Performance
 image:
   placement: 3
   focal_point: 'Center'
