@@ -4,7 +4,7 @@ description: Performance/Installation, 60 minutes
 date: 2014-03-26
 # external_link: 
 tags:
-  - Performance
+  - Graduation Performance
   - Installation
 image:
   placement: 3
