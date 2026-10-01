@@ -9,7 +9,4 @@ main:
     weight: 11
   - name: Workshops
     url: workshops/
-    weight: 12  
-  - name: CV
-    url: uploads/CV-Saito-2024.pdf
-    weight: 13
+    weight: 12 
