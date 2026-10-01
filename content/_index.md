@@ -11,9 +11,6 @@ sections:
     content:
       username: admin
       text: ""
-      button:
-        text: Download CV
-        url: uploads/CV-Saito-2024.pdf
     design:
       css_class: dark
       background:
